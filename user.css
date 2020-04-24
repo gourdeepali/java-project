@@ -1,0 +1,18 @@
+.col-xs-4{
+    position: absolute;
+    right: 10px;
+    top: 7px;
+
+}
+
+.col-md-8{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.col-xs-10{
+    text-align: center;
+}
